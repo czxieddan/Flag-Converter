@@ -16,7 +16,7 @@
 **Description:**
 This tool supports the quick conversion of the required .tga files for flags and can automatically generate three sizes needed for the game, storing them in the corresponding folders. You can upload multiple files in bulk, and the program supports one-click conversion.
 
-[v0.0.0.1](https://github.com/czxieddan/Flag-Converter/releases/tag/v0.0.0.1)
+[v0.0.0.2](https://github.com/czxieddan/Flag-Converter/releases/tag/v0.0.0.2)
 
 by [czxieddan ](https://czxieddan.top)
 
