@@ -1,5 +1,5 @@
-                BEAT DOWN THE SUN COMMERICAL LICENSE  
-                      Version 0.1, June 2025
+                     BEAT DOWN THE SUN LICENSE  
+                     Version 0.1.1, June, 2025
 
  Copyright (C) Beat down the Sun Development Team (hereinafter referred
  to as "Licensor").  
@@ -9,21 +9,23 @@
 
  Everyone is permitted to copy and distribute verbatim copies of this
  license document, but changing it is not allowed.
+ 
+ 
 
                               PREAMBLE
 
   In order to protect the rights and interests of the Beat down the Sun
 Development Team (hereinafter referred to as "the Development Team"), 
-this Commercial License is hereby established.
+this License is hereby established.
 
-  This License, namely the Beat down the Sun Commercial License, applies
+  This License, namely the Beat down the Sun License, applies
 to the Development Team and to certain designated works by Submod authors
 who choose to adopt this License for their works. If you wish to produce
 and publicly distribute a work based on this Work or any work derived
 from a work using this License, you must use this License. See below for
 details.
 
-  y choosing to use this License, you are deemed to have agreed to grant 
+  By choosing to use this License, you are deemed to have agreed to grant 
 to the Development Team, free of charge, all rights within the scope of
 this License to all contents of your work, and to grant the Development
 Team the right to integrate your work into the Work and to use your work
@@ -54,7 +56,7 @@ author is not affected by problems introduced by others.
 
 
 
-          TERMS AND CONDITIONS FOR COMMERCIAL LICENSE USE
+            TERMS AND CONDITIONS FOR COMMERCIAL LICENSE
 
   0. The Licensor authorizes the Licensee to use the Work within the scope
 of authorization (such as internal use, specified products, specified
@@ -152,10 +154,237 @@ of the Work.
 
 
 
-                            END OF TERMS
+                           END OF TERMS
 
     For any questions or to obtain formal authorization, please contact:
     czxieddan@czxieddan.top
 
-  Beat down the Sun Development Team, June 8, 2025  
+  Beat down the Sun Development Team, June 14, 2025  
   CzXieDdan, Chief
+  
+  
+  
+           SUPPLEMENTARY TERMS FOR LICENSE MODIFICATION
+
+                              TERMS
+
+  0. The original license of this project applies to all original source
+code and documentation.
+
+  1. For any newly added content in modified versions, from the time such
+content is added, these supplementary terms shall have universal binding
+effect on the entire Work. If a license pre-exists before the addition of
+new content and the licensee has obtained a distributed version under the
+original license, the licensee retains the right to exercise the original
+license for the content contained in the original version at the time of
+its distribution. However, for newly added content, the new license terms
+must be followed.
+
+  2. The Licensor retains the exclusive right to provide final
+interpretation and clarification for all modified portions of this
+license.
+
+  3. If you obtain this license and wish to use it in your work and modify
+any part of it, you are not permitted to alter the original license in any
+form within its body. You must make modifications separately at the end of
+this license in the following format:
+   
+       XXXX'S BEAT DOWN THE SUN COMMERCIAL LICENSE MODIFIED VERSION  
+ The modifications are listed as follows:  
+	 
+   0. XXXX  
+	 
+   1. XXXX  
+	 
+	 
+   
+                           END OF TERMS  
+							
+   Modifier, Year Month Day
+
+    a) The content of the modified version must not conflict with any
+	explicit provisions in the original license;  
+	
+    b) The content of the modified version must not distort or 
+	misrepresent any part of the original license in any form. Otherwise, 
+	the Development Team reserves the right to interpret the
+	modifications in accordance with "SUPPLEMENTARY TERMS FOR LICENSE
+	MODIFICATION Article 3" and to revoke the violator's rights under
+	"BEAT DOWN THE SUN COMMERCIAL LICENSE Article 11".
+	
+  4. The issuer or modifier of the license reserves the right to amend
+their own issued or modified portions without the need to specify the 
+exact changes within the license. However, when creating new Releases, 
+such updates must clearly indicate that the LICENSE has been updated and 
+provide guidance, or an explanation should be given when pushing to
+origin.
+
+                            DISCLAIMER
+
+  5. The Licensor (referring here to the original BEAT DOWN THE SUN
+COMMERCIAL LICENSE Licensor) bears no responsibility for any improper
+claims in the modified version and reserves the right to unconditionally 
+terminate all relationships with the violating party and to reasonably 
+seek compensation, including but not limited to reputational damages.
+
+
+
+                           END OF TERMS
+
+    These supplementary terms shall take effect from the date of addition 
+	and have the same legal effect as the original licensing terms. 
+ 
+  Beat down the Sun Development Team, June 14, 2025  
+  CzXieDdan, Chief
+
+           SUPPLEMENTARY TERMS FOR DERIVATIVE WORKS
+
+  0. For derivative works issued based on the Work, the following shall 
+apply in accordance with the "BEAT DOWN THE SUN COMMERCIAL LICENSE 
+PREAMBLE":
+
+   a) This License, namely the Beat down the Sun Commercial License, 
+   applies to the Development Team and to certain designated works by 
+   Submod authors who choose to adopt this License for their works. If you 
+   wish to produce and publicly distribute a work based on this Work or 
+   any work derived from a work using this License, you must use this 
+   License. See below for details;
+
+   b) By choosing to use this License, you are deemed to have agreed to 
+   grant to the Development Team, free of charge, all rights within the 
+   scope of this License to all contents of your work, and to grant the 
+   Development Team the right to integrate your work into the Work and to 
+   use your work for commercial purposes. At the same time, the 
+   Development Team grants you the rights to use, copy, modify, and 
+   distribute the Work for non-commercial purposes. If others distribute 
+   the Work under this License, they shall also grant the recipients the 
+   rights to use, copy, modify, and distribute for non-commercial 
+   purposes, but no distributor other than the Development Team is 
+   permitted to authorize any form of commercial use;
+
+   c) When you publicly distribute the Work, whether free of charge or 
+   commercially, you must grant the recipients all rights granted to you 
+   herein. You must ensure that they can also obtain the source code, and 
+   you must display these terms to them so that they are aware of their 
+   rights. Specifically, you must place a copy of this License in the root 
+   directory of your work. Failure to do so will be deemed an 
+   infringement, and all content of your work not belonging to other right 
+   holders will no longer be protected by this License and the copyright 
+   of such content will revert to the Development Team;
+
+   d) To protect each distributor, it is hereby stated that the Work is 
+   provided without any warranty. Furthermore, if the Work is modified by 
+   others and passed on, recipients should be made aware that they have 
+   not received the original version, so that the reputation of the 
+   original author is not affected by problems introduced by others.
+
+  1. When producing a replacement-type submod, you must obtain a 
+"Non-mounted Submod Non-commercial Use License" from the Development Team:
+
+       NON-MOUNTED SUBMOD NON-COMMERCIAL USE LICENSE
+
+   0. The Licensor authorizes the Licensee to produce this non-mounted 
+ submod.
+
+   1. The Licensee undertakes not to use this submod for any commercial 
+ activities.
+
+   2. The Licensor has the right to require the Licensee to destroy any 
+ violative products and publicly apologize if the Licensee uploads a 
+ replacement-type submod in violation of this agreement.
+
+   3. The Licensee shall not use this license for any other purpose.
+  
+   4. You must add the following content at the very top of your work’s 
+ display platform interface:  
+
+     a) HTML:  
+         <div align="center">
+         <!-- Title: -->
+           <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3448474441">
+             <img src="https://i.imgur.com/V00Z6x2.png" height="200">
+           </a>
+           <p>This is a non-mounted submod based on <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3448474441">Beat down the Sun</a></p>
+           <h1><a href="https://steamcommunity.com/workshop/filedetails/?id=3478462766">Beat down the Sun Series</a> - Created by <a href="https://steamcommunity.com/id/czxieddan">CzXieDdan</a></h1>
+         </div>
+		 
+     b) Steam:  
+         [h1]Work Name[/h1][hr][/hr][url=https://steamcommunity.com/workshop/filedetails/?id=3478462766][img]https://i.imgur.com/V00Z6x2.png[/img][/url][code]This is a non-mounted submod based on [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3448474441][b]Beat down the Sun[/b][/url][/code]
+         
+		 
+		 
+                            DISCLAIMER
+							
+   5. The Development Team assumes no responsibility for any adverse 
+ impact caused by modifications to the original files by anyone not part 
+ of the Development Team.
+
+
+
+                           END OF TERMS 
+						   
+   Licensor, Year Month Day  
+   Licensee, License Number  
+   License Period, License Scope
+
+   Please note that the Non-mounted Submod Non-commercial Use License must 
+   be issued by the Beat down the Sun Development Team. No one may add or 
+   counterfeit such a license without authorization.
+
+  2. When producing a mounted submod, you are required to add the 
+  following content at the very top of your work’s display platform 
+  interface:  
+  
+    a) HTML:  
+      <div align="center">
+      <!-- Title: -->
+        <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3448474441">
+          <img src="https://i.imgur.com/V00Z6x2.png" height="200">
+        </a>
+        <h1><a href="https://steamcommunity.com/workshop/filedetails/?id=3478462766">Beat down the Sun Series</a> - Created by <a href="https://steamcommunity.com/id/czxieddan">CzXieDdan</a></h1>
+      </div>
+	  
+    b) Steam:  
+      [h1]Work Name[/h1][hr][/hr][url=https://steamcommunity.com/workshop/filedetails/?id=3478462766][img]https://i.imgur.com/V00Z6x2.png[/img][/url]
+
+
+
+                           END OF TERMS
+
+    These supplementary terms shall take effect from the date of addition 
+	and have the same legal effect as the original licensing terms. 
+ 
+  Beat down the Sun Development Team, June 14, 2025  
+  CzXieDdan, Chief
+  
+  
+--------------------------------------------------------------------------
+  0. Please note that you must not alter any content above this section.
+  
+  1. Please add your content below this section as follows:
+  
+    a) If you have obtained the TERMS AND CONDITIONS FOR COMMERCIAL 
+	LICENSE USE, you should duplicate the TERMS AND CONDITIONS FOR 
+	COMMERCIAL LICENSE below.
+	
+    b) If you have obtained the NON-MOUNTED SUBMOD NON-COMMERCIAL USE 
+	LICENSE, you should duplicate the NON-MOUNTED SUBMOD NON-COMMERCIAL 
+	USE LICENSE below and replace the relevant content with your own 
+	information (be careful not to modify the Beat down the Sun project 
+	address; you should refer to this format and add your own details 
+	below).
+	
+    c) If you need to modify the original license content, please add
+	XXXX'S BEAT DOWN THE SUN COMMERCIAL LICENSE MODIFIED VERSION and refer 
+	to the corresponding format. If you are modifying based on another 
+	person’s work, it is assumed to be a modified version of that work’s 
+	license (i.e., the license above this section, above your license).
+	
+  2. Please duplicate this entire section at the end as well, because if 
+  others create derivative works based on your work, they are still 
+  required to add their content below your section.
+  
+  Beat down the Sun Development Team, June 14, 2025  
+  CzXieDdan, Chief
+  (Replace the signature and date with your own.)
+--------------------------------------------------------------------------
